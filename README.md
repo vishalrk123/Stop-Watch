@@ -1,2 +1,3 @@
 # Stop-Watch
-This project is Stop watch 
+Stop Watch project
+
